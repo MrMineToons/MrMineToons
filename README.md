@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMineToons)](https://github.com/MrMineToons)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMineToons&show_icons=true&theme=merko)](https://github.com/MrMineToons)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMineToons&show_icons=true&theme=gruvbox)](https://github.com/MrMineToons)
 
 <!--
 **MrMineToons/MrMineToons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
