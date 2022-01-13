@@ -3,8 +3,7 @@
 Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMineToons)](https://github.com/MrMineToons/github-readme-stats)
 
-WakaTime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@f5a513e2-8e7c-4326-a469-a01e6bbf15a9)](https://github.com/MrMineToons/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMineToons)](https://github.com/MrMineToons/github-readme-stats)
 
 <!--
 **MrMineToons/MrMineToons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
